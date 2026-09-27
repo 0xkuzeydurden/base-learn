@@ -1,5 +1,7 @@
 # Base Learn
 
+[![CI](https://github.com/0xkuzeydurden/base-learn/actions/workflows/ci.yml/badge.svg)](https://github.com/0xkuzeydurden/base-learn/actions/workflows/ci.yml)
+
 A Hardhat and React/Vite toolkit for exploring Base Learn Solidity exercises,
 deploying contracts, and submitting supported contracts to the configured registries.
 

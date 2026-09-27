@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Base Learn — project cover</title>
+  <desc id="desc">From exercises to contracts. Solidity learning, with deployment tools. An abstract project cover by 0xkuzeydurden, not an application screenshot.</desc>
+  <defs>
+    <radialGradient id="glow" cx="82%" cy="44%" r="74%"><stop offset="0" stop-color="#103B58" stop-opacity=".72"/><stop offset=".75" stop-color="#080E18" stop-opacity="0"/></radialGradient>
+    <linearGradient id="rule"><stop stop-color="#7FC8FF" stop-opacity=".75"/><stop offset="1" stop-color="#7FC8FF" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="#080E18"/>
+  <rect width="1280" height="640" fill="url(#glow)"/>
+  <g stroke="#D1E2FF" stroke-width="1" opacity=".035"><path d="M0 0V640"/><path d="M80 0V640"/><path d="M160 0V640"/><path d="M240 0V640"/><path d="M320 0V640"/><path d="M400 0V640"/><path d="M480 0V640"/><path d="M560 0V640"/><path d="M640 0V640"/><path d="M720 0V640"/><path d="M800 0V640"/><path d="M880 0V640"/><path d="M960 0V640"/><path d="M1040 0V640"/><path d="M1120 0V640"/><path d="M1200 0V640"/><path d="M1280 0V640"/><path d="M0 0H1280"/><path d="M0 80H1280"/><path d="M0 160H1280"/><path d="M0 240H1280"/><path d="M0 320H1280"/><path d="M0 400H1280"/><path d="M0 480H1280"/><path d="M0 560H1280"/><path d="M0 640H1280"/></g>
+  <path d="M810 120V483" stroke="#7FC8FF" stroke-width="1" opacity=".13"/>
+  <rect x="82" y="118" width="90" height="3" rx="1.5" fill="#7FC8FF"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif" fill="#F5F8FD">
+    <text x="82" y="79" font-size="19" font-weight="600" letter-spacing=".1">0xkuzeydurden</text>
+    <text x="1200" y="79" text-anchor="end" font-size="13" font-weight="600" letter-spacing="2.4" fill="#7FC8FF">SOLIDITY LEARNING</text>
+    <text x="78" y="226" font-size="86" font-weight="700" letter-spacing="-3.7">Base</text><text x="78" y="322" font-size="86" font-weight="700" letter-spacing="-3.7">Learn</text>
+    <text x="82" y="394" font-size="25" fill="#CBD5E1">From exercises to contracts.</text><text x="82" y="433" font-size="25" fill="#CBD5E1">Solidity learning, with deployment tools.</text>
+    <text x="82" y="482" font-size="12" font-weight="600" letter-spacing="1.55" fill="#7FC8FF">HARDHAT  /  REACT  /  BASE</text>
+    <path d="M82 529H1200" stroke="url(#rule)" stroke-width="1"/>
+    <text x="82" y="578" font-size="17" font-weight="600" fill="#E1E8F0">base-learn</text>
+    <text x="1200" y="578" text-anchor="end" font-size="12" letter-spacing="1.7" fill="#8392A5">PROJECT COVER</text>
+  </g>
+  <g transform="translate(1010 286)" fill="none" stroke="#7FC8FF" stroke-linecap="round" stroke-linejoin="round"><circle r="134" stroke-width="1.5" opacity=".28"/>
+        <path d="M0-73Q-53-104-112-78V81Q-53 57 0 92Q53 57 112 81V-78Q53-104 0-73Z" stroke-width="2.8" fill="#7FC8FF" fill-opacity=".025"/>
+        <path d="M0-73V92M-85-42Q-52-48-26-30M-85-10Q-52-16-26 2M-85 22Q-52 16-26 34" stroke-width="2" opacity=".7"/>
+        <path d="M50-29L32-11L50 7M75-29L93-11L75 7M69-40L56 18" stroke-width="3"/>
+        <path d="M27 45H86" stroke-width="2" opacity=".65"/>
+        <path d="M-23-130H23M-12-140H12" stroke-width="2" opacity=".65"/></g>
+</svg>
